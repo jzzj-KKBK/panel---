@@ -1,0 +1,1 @@
+function t(){import.meta.url,import("_").catch(()=>1),async function*(){}().next()}import"./main.js?v=1756369731";import"./base-lib.js?v=1756369731";import"./__commonjsHelpers__.js?v=1756369731";import"./utils-lib.js?v=1756369731";export{t as __vite_legacy_guard};

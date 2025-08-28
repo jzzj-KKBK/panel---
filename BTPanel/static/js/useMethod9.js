@@ -1,0 +1,1 @@
+import{o as s,K as o,dS as t}from"./utils-lib.js?v=1756369731";import{r as a}from"./base-lib.js?v=1756369731";const e=a("common"),i=()=>{s({isHtml:!0,title:"初始化邮局配置文件",content:'<span class="text-red-500">此操作会初始化邮局配置文件，如果邮局已正常运行请勿重复初始化</span>',onConfirm:()=>{o({request:t(),loading:"正在环境初始化中...",message:!0})}})};export{i,e as m};

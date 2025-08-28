@@ -1,0 +1,1 @@
+import{e as s}from"./utils-lib.js?v=1756369731";import{q as a,v as o,y as e,B as r}from"./base-lib.js?v=1756369731";import"./__commonjsHelpers__.js?v=1756369731";const t={class:"free-tag"};const n=s({},[["render",function(s,n){return a(),o("span",t,[...n[0]||(n[0]=[e("span",{class:"ali-icon"},null,-1),r("阿里云专版免费 ",-1)])])}],["__scopeId","data-v-bf86cfb6"]]);export{n as default};

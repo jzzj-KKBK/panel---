@@ -1,0 +1,1 @@
+System.register(["./utils-lib-legacy.js?v=1756369731","./base-lib-legacy.js?v=1756369731","./__commonjsHelpers__-legacy.js?v=1756369731"],function(e,t){"use strict";var n,s,r;return{setters:[function(e){n=e.e},function(e){s=e.q,r=e.v},null],execute:function(){e("default",n({},[["render",function(e,t){return s(),r("div")}]]))}}});

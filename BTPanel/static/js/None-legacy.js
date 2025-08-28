@@ -1,0 +1,1 @@
+System.register(["./utils-lib-legacy.js?v=1756369731","./base-lib-legacy.js?v=1756369731"],function(e,t){"use strict";var n,s,c,i;return{setters:[function(e){n=e.e},function(e){s=e.q,c=e.v,i=e.L}],execute:function(){var t={class:"content-none"};e("N",n({},[["render",function(e,n){return s(),c("div",t,[i(e.$slots,"default",{},void 0,!0)])}],["__scopeId","data-v-ae2374e0"]]))}}});
